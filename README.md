@@ -1,6 +1,8 @@
 # Handwritten-Captcha-Recognition
 This is a repository having source code of Handwritten Captcha Recognition using EMNIST Dataset.
-To run the code: Open Terminal and type the listed commands.
+
+##To run the code: Open Terminal and type the listed commands.
+
 Create a virtual anaconda environment. Use only Python 3.5 or 3.6 .
 
 conda create -n python=3.6.1
